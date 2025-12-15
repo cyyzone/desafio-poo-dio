@@ -1,3 +1,21 @@
+**## 🚀 Atualizações Recentes
+
+### Melhorias na Classe `Dev`
+
+1.  **Validação de Inscrição Única**
+    - O método `inscreverBootcamp` agora verifica se o desenvolvedor já está matriculado. Isso evita duplicação de conteúdos e erros de contagem.
+
+2.  **Cancelamento de Matrícula**
+    - Implementação do método `cancelarInscricao`. Agora é possível reverter a matrícula, removendo os conteúdos pendentes e desvinculando o aluno do Bootcamp.
+
+3.  **Relatório de Performance**
+    - Novo método `exibirRelatorio` que substitui os prints soltos. Ele exibe de forma formatada:
+        - Nome do Dev e XP Total.
+        - Lista separada de conteúdos concluídos e pendentes.**
+
+
+
+
 <h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
 
 <p align="center"> 📜 <a href="https://academiapme-my.sharepoint.com/:p:/g/personal/camila_cavalcante_dio_me/EaXyYOjBaFpZjkxhexMo5EcBKMEEAI5t5aHlsTjnBQJlUw?e=nxdB6C"> SLIDES APRESENTADO NO PROJETO </a> 📜 </P>
