@@ -1,4 +1,4 @@
-**## 🚀 Atualizações Recentes
+🚀 Atualizações Recentes
 
 ### Melhorias na Classe `Dev`
 
